@@ -1,3 +1,3 @@
 HTML Applications...!
 
-Let's play with HTMl
+Let's play with HTML

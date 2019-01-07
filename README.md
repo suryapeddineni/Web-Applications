@@ -1,3 +1,3 @@
 HTML Applications...!
 
-Let's play with HTML
+Let's play with HTML and do awesome exercises
